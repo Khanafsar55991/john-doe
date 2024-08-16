@@ -1,5 +1,5 @@
-Demo: https://john-doe.neocities.org/
-
+Demodoe.neocities.org//khanafsar 
+https://khanafsar55991@gmail.com
 A website in a single HTML file. It simply uses the `#anchor` suffix and the `:target` CSS selector to show and hide pages/content.
 
 To create a new page, add a `<section>` with a unique `id`:
